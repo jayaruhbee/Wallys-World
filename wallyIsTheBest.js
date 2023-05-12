@@ -1,1 +1,1 @@
-console.log("Wally was voted the number #2 dog in all of the land")
+console.log("Wally was voted the number #1 dog in all of the land")
