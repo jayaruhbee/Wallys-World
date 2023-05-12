@@ -1,1 +1,1 @@
-print ("Wally is the #2 dog in all of the land")
+print ("Wally is the #1 dog in all of the land")
